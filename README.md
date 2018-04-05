@@ -14,6 +14,8 @@ Link to Database Structure - https://docs.google.com/document/d/1j3sNRhc00jjowH8
 
 Link to Personas - https://docs.google.com/document/d/1hYNcN7iv0qej72wIAcYNTBWNU8TsIygWDPHKbU_bX0U/edit
 
+Link to Budget - https://docs.google.com/spreadsheets/d/1eZdx7tB3UNcasHimysfUmG62TDGHG7PUjn3cLffe-r8/edit
+
 Link to Kravspec - https://docs.google.com/document/d/1g2GDwGQ_MI2DAaV-Ttk_jz_eDCes5MbEbEYrgpV2vVI/edit
 
 React + Redux Tutorial - https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_
